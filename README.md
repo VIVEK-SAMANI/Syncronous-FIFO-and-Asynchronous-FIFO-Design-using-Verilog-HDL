@@ -69,6 +69,6 @@ This project is open-source and available under the MIT License.
 
 ---
 ### Author
-**Your Name**
+**Samani Vivek**
 
 For any issues or suggestions, feel free to open an issue on GitHub!
